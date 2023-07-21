@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Kanishk951 and I hate biology because of the naming convention biologists use.
-- 👀 I’m interested in Artificial Intelligence, Web Development, Game Development (although I haven't touched that since 2020), Mathematics, Solid State Chemistry, Physics, Quantum Science, Political Philosophy, Moral Philosophy, Data Science.
-- 🌱 I’m currently learning pretty much all the things I am interested in.
+- 👋 Hi, I’m @Kanishk951 and i'm stupid
+- 👀 still stupid
+- 🌱 being stupid
 
 <!---
 Kanishk951/Kanishk951 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
